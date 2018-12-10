@@ -1,7 +1,7 @@
 {
-  "name": "eslint-plugin-demo",
-  "version": "0.0.0",
-  "description": "a demo plugin",
+  "name": "eslint-plugin-sung-hunt-down-your-bad-code",
+  "version": "0.0.5",
+  "description": "beta",
   "keywords": [
     "eslint",
     "eslintplugin",

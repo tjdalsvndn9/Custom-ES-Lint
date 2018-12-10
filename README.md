@@ -10,13 +10,13 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-demo`:
+Next, install `npm i eslint-plugin-sung-hunt-down-your-bad-code`:
 
 ```
-$ npm install eslint-plugin-demo --save-dev
+$ npm i eslint-plugin-sung-hunt-down-your-bad-code --save-dev
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-demo` globally.
+**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `npm i eslint-plugin-sung-hunt-down-your-bad-code` globally.
 
 ## Usage
 
@@ -25,7 +25,7 @@ Add `demo` to the plugins section of your `.eslintrc` configuration file. You ca
 ```json
 {
     "plugins": [
-        "demo"
+        "sung-hunt-down-your-bad-code"
     ]
 }
 ```
@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "demo/rule-name": 2
+        "sung-hunt-down-your-bad-code/rule-name": 1
     }
 }
 ```
@@ -44,8 +44,3 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 * Fill in provided rules here
-
-
-
-
-
