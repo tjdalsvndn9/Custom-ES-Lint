@@ -36,7 +36,16 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "sung-hunt-down-your-bad-code/rule-name": 1
+      "sung-hunt-down-your-bad-code/react-syntax":1,
+      "sung-hunt-down-your-bad-code/react-console":1,
+      "sung-hunt-down-your-bad-code/react-import":1,
+      "sung-hunt-down-your-bad-code/react-props":1,
+      "sung-hunt-down-your-bad-code/react-maybe":1,
+      "sung-hunt-down-your-bad-code/react-setTimeout":1,
+      "sung-hunt-down-your-bad-code/react-async":1,
+      "sung-hunt-down-your-bad-code/react-try-catch":1,
+      "sung-hunt-down-your-bad-code/react-fetch":1,
+      "sung-hunt-down-your-bad-code/react-function":1
     }
 }
 ```
